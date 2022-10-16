@@ -16,7 +16,6 @@ with +1 yrs of hands-on experience Financing and Developing solutions.
 
 
 <div >
-<br />
 <a target="_blank" align="center" href="https://www.tradingview.com/script/OKKz3vDv-VXD-Cloud-Edition/">
   <img align="right" top="500" height="300" width="400" src="https://www.tradingview.com/x/LukBdBPu">
 </a>
@@ -46,7 +45,8 @@ with +1 yrs of hands-on experience Financing and Developing solutions.
 <a href="https://instagram.com/vvxixn" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-  <br />
+</h4>
+<h4 align="center">
 I'm always curious about how thing work so I love learning new thing, breaking thing and sloved it.
   <br />
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
