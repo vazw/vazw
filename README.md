@@ -74,11 +74,11 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vazw&layout=compact&theme=dark&bg_color=0A0A0A" alt="Vaz Top Languages"/>
 <br />
- <br />
- **ขอให้โชคดี!** 😊
- 
+<br />
+
+**ขอให้โชคดี!** 😊 <img src="https://komarev.com/ghpvc/?username=vazw&color=green">
 </div>
 
-
+ 
 
 
