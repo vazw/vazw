@@ -4,33 +4,20 @@
 <br />
 
 <h1> Hi There!<img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">, it's Vaz, สวัสดีครับ!🙏</h1>
-
-<a href="https://twitter.com/VVaz_V" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
   
-<a href="https://instagram.com/vvxixn" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-  
+<h3 align="center">
+I'm Vin, Jakkraphat a Self Learning Developer from Northern, Thailand.
 <br />
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vazw&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=00ff80&icon_color=00ff80&text_color=D3D3D3&bg_color=0A0A0A" alt="My Github Stats">
-  <br />
-  
+with +1 yrs of hands-on experience Financing and Developing solutions.
+</h3>
 </div>
 
+<img src="https://github-readme-stats.vercel.app/api?username=vazw&theme=dracula&include_all_commits=true&count_private=true&show_icons=true" alt="My Github Stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vazw&theme=dracula" alt="My Github Stats">
 
 
 
 <div >
-  
-<h3 align="center">
-I'm Vin, Jakkraphat a Self Learning Developer from Northern, Thailand.
-</h3>
-  
-<h4 align="center">
-with +1 yrs of hands-on experience Financing and Developing solutions.
-</h4>
+
   
 <br />
 <a target="_blank" align="center" href="https://www.tradingview.com/script/OKKz3vDv-VXD-Cloud-Edition/">
@@ -55,9 +42,16 @@ with +1 yrs of hands-on experience Financing and Developing solutions.
 
 <br />
 <h4 align="center">
+  <a href="https://twitter.com/VVaz_V" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+  
+<a href="https://instagram.com/vvxixn" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+  <br />
 I'm always curious about how thing work so I love learning new thing, breaking thing and sloved it.
-</h4>
-<h4 align="center">
+  <br />
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
 </h4>
 
