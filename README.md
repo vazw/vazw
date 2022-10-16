@@ -22,27 +22,24 @@
   <br />
 <br />
 
-I'm a Vin, Jakkraphat from Thailand.
-<br />
-I'm a Self Learning Developer with +2 yrs of hands-on experience Financing and +1 yrs Developing solutions,
-<br />
+I'm Vin, Jakkraphat from Northern, Thailand.
+`````
+I'm a Self Learning Developer with +2 yrs of hands-on experience Financing 
+and +1 yrs Developing solutions.
 
-I'm currently based in Phayao, Thailand
+I'm currently based in Phayao and Chiang Rai, Thailand
 
-<br />
 I love learning new techs and using new tools.
-<br />
-I always curious about how thing work so I love learning new thing breaking thing and sloved it.
-  <br />
-  I also challenge myself everyday to get better at something.
-<br />
+
+I'm always curious about how thing work so I love learning new thing breaking thing and sloved it.
+
+I'm also challenge myself everyday to get better at something.
+`````
 <br />
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
 <br />
 
-
-**ขอให้โชคดี!** 😊
 
 </div>
 
@@ -79,6 +76,8 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vazw&layout=compact&theme=dark&bg_color=0A0A0A" alt="Vaz Top Languages"/>
 <br />
+ <br />
+ **ขอให้โชคดี!** 😊
  
 </div>
 
