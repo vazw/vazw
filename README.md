@@ -1,13 +1,9 @@
-
-
-
-
-
-
 <div align="center">
+
 <img width="100%" alt="Developer Illustration" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Illustration.gif"/>
 <br />
-<h1> Hi There, it's vaz, สวัสดีครับ! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h1>
+
+<h1> Hi There!<img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">, it's Vaz, สวัสดีครับ!🙏</h1>
 
 <a href="https://twitter.com/VVaz_V" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -16,19 +12,26 @@
 <a href="https://instagram.com/vvxixn" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
+  
 <br />
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vazw&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=00ff80&icon_color=00ff80&text_color=D3D3D3&bg_color=0A0A0A" alt="My Github Stats">
   <br />
+  
 </div>
 
 
+
+
 <div >
+  
 <h3 align="center">
 I'm Vin, Jakkraphat a Self Learning Developer from Northern, Thailand.
 </h3>
+  
 <h4 align="center">
 with +1 yrs of hands-on experience Financing and Developing solutions.
 </h4>
+  
 <br />
 <a target="_blank" align="center" href="https://www.tradingview.com/script/OKKz3vDv-VXD-Cloud-Edition/">
   <img align="right" top="500" height="300" width="400" src="https://www.tradingview.com/x/LukBdBPu">
@@ -59,6 +62,9 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 </h4>
 
 </div>
+
+
+
 
 
 <div align="center">
