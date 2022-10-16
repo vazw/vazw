@@ -34,7 +34,7 @@ with +1 yrs of hands-on experience Financing and Developing solutions.
   <img align="right" top="500" height="300" width="400" src="https://www.tradingview.com/x/LukBdBPu">
 </a>
 
-- 🌱 I’m currently Serve military at Thai Army
+- 🌱 I’m currently serve military at Thai Army
 
 - 🔭 I’m currently working on my <a href="https://github.com/vazw/vxma_web" target="blank">VXMA_web</a> trading bot project
 
@@ -42,7 +42,7 @@ with +1 yrs of hands-on experience Financing and Developing solutions.
 
 - 📝 I love learning new techs and using new tools.
 
-- 🌱 I’m currently using Void Linux and neovim try to check my <a href="https://github.com/vazw/dotfiles" target="blank">dotfiles</a> settings
+- 🌱 I’m currently using Void Linux check my <a href="https://github.com/vazw/dotfiles" target="blank">dotfiles</a> settings
 
 - 💬 I'm also challenge myself everyday to get better at something.
 
