@@ -6,9 +6,11 @@
 <h1> Hi There!<img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">, it's Vaz, สวัสดีครับ!🙏</h1>
   
 <h3 align="center">
-I'm Vin, Jakkraphat a Self Learning Developer from Northern, Thailand.
+I'm Vin, Jakkraphat from Northern, Thailand.
 <br />
 with +1 yrs of hands-on experience Financing and Developing solutions.
+<br />
+🎯My goal is to become a Developer
 </h3>
 <img src="https://github-readme-stats.vercel.app/api?username=vazw&theme=dracula&include_all_commits=true&count_private=true&show_icons=true" alt="My Github Stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vazw&theme=dracula" alt="My Github Stats">
 
