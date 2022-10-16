@@ -7,8 +7,7 @@
 <div align="center">
 <img width="100%" alt="Developer Illustration" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Illustration.gif"/>
 <br />
-<br />
-<h2> Hi There, it's vaz, สวัสดีครับ! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+<h1> Hi There, it's vaz, สวัสดีครับ! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h1>
 
 <a href="https://twitter.com/VVaz_V" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -20,26 +19,47 @@
 <br />
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vazw&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=00ff80&icon_color=00ff80&text_color=D3D3D3&bg_color=0A0A0A" alt="My Github Stats">
   <br />
+</div>
+
+
+<div >
+<h3 align="center">
+I'm Vin, Jakkraphat a Self Learning Developer from Northern, Thailand.
+</h3>
+<h4 align="center">
+with +1 yrs of hands-on experience Financing and Developing solutions.
+</h4>
 <br />
+<a target="_blank" align="center" href="https://www.tradingview.com/script/OKKz3vDv-VXD-Cloud-Edition/">
+  <img align="right" top="500" height="300" width="400" src="https://www.tradingview.com/x/LukBdBPu">
+</a>
 
-I'm Vin, Jakkraphat from Northern, Thailand.
-`````
-I'm a Self Learning Developer with +1 yrs of hands-on experience Financing and Developing solutions.
+- 🌱 I’m currently Serve military at Thai Army
 
-I'm currently based in Phayao and Chiang Rai, Thailand
+- 🔭 I’m currently working on my <a href="https://github.com/vazw/vxma_web" target="blank">VXMA_web</a> trading bot project
 
-I love learning new techs and using new tools.
+- 🤝 I’m available for freelancing.
 
-I'm always curious about how thing work so I love learning new thing breaking thing and sloved it.
+- 📝 I love learning new techs and using new tools.
 
-I'm also challenge myself everyday to get better at something.
-`````
+- 🌱 I’m currently using Void Linux and neovim try to check my <a href="https://github.com/vazw/dotfiles" target="blank">dotfiles</a> settings
 
+- 💬 I'm also challenge myself everyday to get better at something.
+
+- 💬 My Trading System <a href="https://www.tradingview.com/script/OKKz3vDv-VXD-Cloud-Edition/" target="blank">VXD</a> on Tradingview.com
+
+- 📫 How to reach me **4wonzest@gmail.com**
+
+<br />
+<h4 align="center">
+I'm always curious about how thing work so I love learning new thing, breaking thing and sloved it.
+</h4>
+<h4 align="center">
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
-<br />
-
+</h4>
 
 </div>
+
 
 <div align="center">
 
@@ -74,9 +94,9 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vazw&layout=compact&theme=dark&bg_color=0A0A0A" alt="Vaz Top Languages"/>
 <br />
-<br />
 
-**ขอให้โชคดี!** 😊 <img src="https://komarev.com/ghpvc/?username=vazw&color=green">
+<h3>ขอให้โชคดี! 😊</h3><img src="https://komarev.com/ghpvc/?username=vazw&color=green">
+
 </div>
 
  
