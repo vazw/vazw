@@ -4,18 +4,19 @@
 <br />
 
 <h1> Hi There!<img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">, it's Vaz, สวัสดีครับ!🙏</h1>
-  
 <h3 align="center">
 I'm Vin, Jakkraphat from Northern, Thailand.
-<br />
+</h3>
+<p align="center">
 with +1 yrs of hands-on experience Financing and Developing solutions.
 <br />
 🎯My goal is to become a Developer
-</h3>
+</p>
 <img src="https://github-readme-stats.vercel.app/api?username=vazw&theme=dracula&include_all_commits=true&count_private=true&show_icons=true" alt="My Github Stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vazw&theme=dracula" alt="My Github Stats">
 
 </div>
 
+---
 
 <div >
 <a target="_blank" align="center" href="https://www.tradingview.com/script/OKKz3vDv-VXD-Cloud-Edition/">
@@ -32,14 +33,17 @@ with +1 yrs of hands-on experience Financing and Developing solutions.
 
 - 🌱 I’m currently using Void Linux check my <a href="https://github.com/vazw/dotfiles" target="blank">dotfiles</a> settings
 
-- 💬 I'm also challenge myself everyday to get better at something.
-
 - 💬 My Trading System <a href="https://www.tradingview.com/script/OKKz3vDv-VXD-Cloud-Edition/" target="blank">VXD</a> on Tradingview.com
 
 - 📫 How to reach me **4wonzest@gmail.com**
 
-<br />
-<h4 align="center">
+
+</div>
+
+
+
+<div align="center">
+<h1>
   <a href="https://twitter.com/VVaz_V" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -47,20 +51,23 @@ with +1 yrs of hands-on experience Financing and Developing solutions.
 <a href="https://instagram.com/vvxixn" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-</h4>
-<h4 align="center">
+</h1>
+
+
+`````
 I'm always curious about how thing work so I love learning new thing, breaking thing and sloved it.
-  <br />
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
-</h4>
-
-</div>
-
-
-
+`````
+> The depth and the longevity of things to learn are limitless and the time is limited
+`````
+I'm also challenge myself everyday to get better at something.
+`````
+> Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
 
 
-<div align="center">
+
+
+
+
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -97,6 +104,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <h3>ขอให้โชคดี! 😊</h3><img src="https://komarev.com/ghpvc/?username=vazw&color=green">
 
 </div>
+
 
  
 
