@@ -32,7 +32,7 @@ I'm currently based in Phayao, Thailand
 <br />
 I love learning new techs and using new tools.
 <br />
-I love learning new thing breaking thing and sloved it.
+I always curious about how thing work so I love learning new thing breaking thing and sloved it.
   <br />
   I also challenge myself everyday to get better at something.
 <br />
