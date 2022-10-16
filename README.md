@@ -24,7 +24,7 @@
 
 I'm a Vin, Jakkraphat from Thailand.
 <br />
-I'm a Self Learning Developer with +2 yrs of hands-on experience Financing and Developing solutions,
+I'm a Self Learning Developer with +2 yrs of hands-on experience Financing and +1 yrs Developing solutions,
 <br />
 
 I'm currently based in Phayao, Thailand
