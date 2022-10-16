@@ -12,11 +12,12 @@ with +1 yrs of hands-on experience Financing and Developing solutions.
 <br />
 🎯My goal is to become a Developer
 </p>
+<h1>
 <img src="https://github-readme-stats.vercel.app/api?username=vazw&theme=dracula&include_all_commits=true&count_private=true&show_icons=true" alt="My Github Stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vazw&theme=dracula" alt="My Github Stats">
-
+</h1>
 </div>
 
----
+
 
 <div >
 <a target="_blank" align="center" href="https://www.tradingview.com/script/OKKz3vDv-VXD-Cloud-Edition/">
