@@ -24,8 +24,7 @@
 
 I'm Vin, Jakkraphat from Northern, Thailand.
 `````
-I'm a Self Learning Developer with +2 yrs of hands-on experience Financing 
-and +1 yrs Developing solutions.
+I'm a Self Learning Developer with +1 yrs of hands-on experience Financing and Developing solutions.
 
 I'm currently based in Phayao and Chiang Rai, Thailand
 
@@ -35,9 +34,8 @@ I'm always curious about how thing work so I love learning new thing breaking th
 
 I'm also challenge myself everyday to get better at something.
 `````
-<br />
 
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
 <br />
 
 
