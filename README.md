@@ -10,7 +10,7 @@ I'm Vin, Jakkraphat from Northern, Thailand.
 <p align="center">
 with +1 yrs of hands-on experience Financing and Developing solutions.
 <br />
-🎯My goal is to become a Developer
+🎯My goal is to make a "Free Trading System" that anyone can access!
 </p>
 <h1>
 <img src="https://github-readme-stats.vercel.app/api?username=vazw&theme=dark&include_all_commits=true&count_private=true&show_icons=true" alt="My Github Stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vazw&theme=dark" alt="My Github Stats">
