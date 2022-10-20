@@ -1,9 +1,12 @@
 <div align="center">
+<h1>
+It's fun to code,doesn't it?😆
+</h1>
 
 <img width="100%" alt="Developer Illustration" src="https://github.com/vazw/vazw/blob/main/Illustration.webp"/>
 <br />
 
-<h1> Hi There!<img src="https://github.com/vazw/vazw/blob/main/Hi.gif" width="30">, it's Vaz, สวัสดีครับ!🙏</h1>
+<h2> Hi There!<img src="https://github.com/vazw/vazw/blob/main/Hi.gif" width="30">, it's Vaz, สวัสดีครับ!🙏</h2>
 <h3 align="center">
 I'm Vin, Jakkraphat from Northern, Thailand.
 </h3>
