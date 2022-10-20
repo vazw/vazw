@@ -104,7 +104,8 @@ I'm also challenge myself everyday to get better at something.
  
 <img src="https://img.shields.io/badge/Bitcoin%20Lightning-white?logo=StackBlitz&logoColor=orange&style=for-the-badge">
 <br />
- 
+<img src="https://img.shields.io/badge/Lua-white?logo=Lua&logoColor=0000FF&style=for-the-badge">
+<br />
  
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vazw&layout=compact&theme=dark&bg_color=0A0A0A" alt="Vaz Top Languages"/>
@@ -116,5 +117,4 @@ I'm also challenge myself everyday to get better at something.
 
 
  
-
 
