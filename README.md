@@ -27,9 +27,9 @@ with +1 yrs of hands-on experience Financing and Developing solutions.
   <img align="right" top="500" height="300" width="400" src="https://www.tradingview.com/x/LukBdBPu">
 </a>
 
-- 🌱 I’m currently serve military at Thai Army
-
 - 🔭 I’m currently working on my <a href="https://github.com/vazw/vxma_web" target="blank">VXMA_web</a> trading bot project
+
+- 🌱 2021-2022 serve military at Thai Army(2/63)
 
 - 🤝 I’m available for freelancing.
 
