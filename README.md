@@ -76,11 +76,11 @@ I'm also challenge myself everyday to get better at something.
 ## Tech Stack
 ### Main
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/learning rust-ffffff?style=for-the-badge&logo=rust&logoColor=000000">
+<br />
 <img src="https://img.shields.io/badge/Void%20Linux-006701.svg?style=for-the-badge&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
 <img src="https://img.shields.io/badge/Bitcoin-white?logo=Bitcoin&logoColor=white&style=for-the-badge">
-<br />
-<img src="https://img.shields.io/badge/learning rust-3670A0?style=for-the-badge&logo=rust&logoColor=ffdd54">
 <br />
 
 ### I can work with
