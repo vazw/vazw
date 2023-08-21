@@ -1,5 +1,4 @@
 <div align="center">
-<h1></h1>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vazw&theme=dark&include_all_commits=true&count_private=true&show_icons=true" alt="My Github Stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vazw&theme=dark" alt="My Github Stats">
 </div>
 
@@ -9,53 +8,43 @@
   <img align="right" top="500" height="300" width="400" src="https://www.tradingview.com/x/LukBdBPu">
 </a>
 
-- 📝 Languages
-  - ภาษาไทย(Native proficiency)
-  - English(B2)
-
-- 💬 My Trading System <a href="https://www.tradingview.com/script/OKKz3vDv-VXD-Cloud-Edition/" target="blank">VXD</a> on Tradingview.com
-
-- 🔭 My <a href="https://github.com/vazw/vxma_web" target="blank">VXMA_web</a> trading bot project
+- 🔭 Projects
+  - Tradingview alert webhook for BinanceAPI
+    - <a href="https://github.com/vazw/Binance_fapi_TV_webhook" target="blank">Python Version</a>
+    - <a href="https://github.com/vazw/binance_tv_rs" target="blank">Rust Version</a>
+  - <a href="https://github.com/vazw/vxma_web" target="blank">VXMA_web trading bot project</a>
+  - <a href="https://www.tradingview.com/script/OKKz3vDv-VXD-Cloud-Edition/" target="blank">Trading System VXD on Tradingview.com</a>
+  - <a href="https://github.com/vazw/ChatTrader" target="blank">TelegramBot ChatTrader</a>
+  - <a href="https://github.com/vazw/dotfiles" target="blank">My Linux dotfiles configurations</a>
 
 
 </div>
 
 <div >
 
-───────────────▄▄───▐█
-───▄▄▄───▄██▄──█▀───█─▄
-─▄██▀█▌─██▄▄──▐█▀▄─▐█▀
-▐█▀▀▌───▄▀▌─▌─█─▌──▌─▌
-▌▀▄─▐──▀▄─▐▄─▐▄▐▄─▐▄─▐▄
+> ───────────────▄▄───▐█   <br/>
+> ───▄▄▄───▄██▄──█▀───█─▄  <br/>
+> ─▄██▀█▌─██▄▄──▐█▀▄─▐█▀   <br/>
+> ▐█▀▀▌───▄▀▌─▌─█─▌──▌─▌   <br/>
+> ▌▀▄─▐──▀▄─▐▄─▐▄▐▄─▐▄─▐▄  <br/>
 
 
 
-## About Me <img src="https://komarev.com/ghpvc/?username=vazw&color=green">
 
-- 🌱 2022 - Now:
-  - I am currently responsible for Back-End Development at <a href="https://www.mysaleng.com" target="blank">MYSALENG.COM</a>
-    -  specifically focusing on the Trading Engine and Trading Strategy.
-- 🌱 2020 - 2022:
-  - Completed a two-year mandatory military service with the Thai Army (2/63).
-
-
-<div align="center">
   
 ##  
-
 <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vazw&layout=compact&theme=dark&bg_color=0A0A0A" alt="Vaz Top Languages"/>
+<div align="center">
 
-```
+```python
 Please feel free to clone/fork projects,
 raise issues and submit Pull Requests
 if you think something could be better.
 ```
 
 <img src="https://img.shields.io/badge/Linux-006701.svg?style=for-the-badge&logo=linux&logoColor=white">
-<img src="https://img.shields.io/badge/Bash-black?logo=GNU%20Bash&logoColor=00b301&style=for-the-badge">
-<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
 <img src="https://img.shields.io/badge/Bitcoin-white?logo=Bitcoin&logoColor=orange&style=for-the-badge">
-
+<img src="https://komarev.com/ghpvc/?username=vazw&color=blue&style=for-the-badge&label=VIEWS">
 
 </div>
 
