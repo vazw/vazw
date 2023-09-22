@@ -1,4 +1,7 @@
 <div align="center">
+  
+![Metrics](/github-metrics.svg)
+  
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vazw&theme=dark&include_all_commits=true&count_private=true&show_icons=true" alt="My Github Stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vazw&theme=dark" alt="My Github Stats">
 </div>
 
