@@ -4,21 +4,14 @@
   
 </div>
 <div align="left">
-<a target="_blank" align="center" href="https://www.tradingview.com/script/OKKz3vDv-VXD-Cloud-Edition/">
-  <img align="right" top="500" height="280" width="400" src="https://www.tradingview.com/x/LukBdBPu">
-</a>
   
-- Self-taught Dev Dream for Freedom.
+- Self-taught Freedom Dev.
+- เวลามีค่าศึกษา Bitcoin.
 - 🔭 Projects
-  - Tradingview alert webhook for BinanceAPI
-    - <a href="https://github.com/vazw/Binance_fapi_TV_webhook" target="blank">Python Version</a>
-    - <a href="https://github.com/vazw/binance_tv_rs" target="blank">Rust Version</a>
-  - <a href="https://github.com/vazw/vxma_web" target="blank">VXMA_web trading bot project</a>
-  - <a href="https://www.tradingview.com/script/OKKz3vDv-VXD-Cloud-Edition/" target="blank">Trading System VXD on Tradingview.com</a>
+  - <a href="https://github.com/vazw/siamstr" target="blank">Siamstr Nostr Address Provider</a>
   - <a href="https://github.com/vazw/ChatTrader" target="blank">TelegramBot ChatTrader</a>
+  - <a href="https://www.tradingview.com/script/OKKz3vDv-VXD-Cloud-Edition/" target="blank">Trading System VXD on Tradingview.com</a>
   - <a href="https://github.com/vazw/dotfiles" target="blank">My Linux dotfiles configurations</a>
-  - <a href="https://github.com/vazw/veristr" target="blank">Rust back-end for nostr-address-provider</a>
-
 
 </div>
 
