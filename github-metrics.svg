@@ -34,16 +34,16 @@
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            906 Commits
+                            910 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="624.5392121877959" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="624.5392121877959" y="0" width="191.57461849917252" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="816.1138306869684" y="0" width="57.58230049705392" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="873.6961311840223" y="0" width="28.318867537517878" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="902.0149987215402" y="0" width="13.236840996130903" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="915.2518397176711" y="0" width="2.6268948600297275" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="917.8787345777009" y="0" width="1.1999651584587674" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="919.0786997361597" y="0" width="0.9213002638403808" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="624.4141291327398" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="624.4141291327398" y="0" width="191.53942101750073" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="815.9535501502406" y="0" width="57.57172105817918" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="873.5252712084198" y="0" width="28.3136645892937" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="901.8389357977135" y="0" width="13.234409027470317" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="915.0733448251838" y="0" width="2.62641222780833" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="917.6997570529921" y="0" width="1.1997446921360233" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="918.8995017451282" y="0" width="1.100498254871863" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -302,7 +302,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SelfhostedPro/Yacht</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.</div>
@@ -355,7 +355,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>quentintaranpino/nostrcheck-api-ts</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Nostr server for hosting media upload, nostr address (NIP05), lightning redirects and much more.</div>
@@ -408,7 +408,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xai-org/grok-1</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Grok open release</div>
@@ -429,13 +429,13 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        46.5k
+                                        46.6k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        7.79k
+                                        7.81k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -461,7 +461,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>getAlby/lightning-browser-extension</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Bitcoin Lightning Browser extension that connects to different wallet interfaces and brings deep lightning integration to the web</div>
@@ -511,7 +511,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Apr 2024, 11:10:00 (timezone Asia/Bangkok) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Apr 2024, 11:10:06 (timezone Asia/Bangkok) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
