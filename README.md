@@ -6,12 +6,13 @@
 <div align="left">
   
 - Self-taught Freedom Dev.
-- เวลามีค่าศึกษา Bitcoin.
+
+  <a href="https://github.com/vazw/dotfiles" target="blank">My Linux dotfiles configurations</a>
 - 🔭 Projects
+  - <a href="https://github.com/vazw/siamstr-signer" target="blank">Siamstr Nostr Remote Signer</a>
   - <a href="https://github.com/vazw/siamstr" target="blank">Siamstr Nostr Address Provider</a>
   - <a href="https://github.com/vazw/ChatTrader" target="blank">TelegramBot ChatTrader</a>
   - <a href="https://www.tradingview.com/script/OKKz3vDv-VXD-Cloud-Edition/" target="blank">Trading System VXD on Tradingview.com</a>
-  - <a href="https://github.com/vazw/dotfiles" target="blank">My Linux dotfiles configurations</a>
 
 </div>
 
