@@ -5,7 +5,7 @@ on:
   schedule: [{cron: "0 4 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  #push: {branches: ["master", "main"]}
+  push: {branches: ["main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -40,3 +40,9 @@ jobs:
           plugin_lines: yes
           plugin_stars: yes
           plugin_stars_limit: 4
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_gists: yes
+          plugin_code: yes
+          plugin_code_languages: javascript, rust, python
+
