@@ -5,7 +5,7 @@
 </div>
 <div align="left">
   
-- Self-taught Freedom Dev.
+- Self-taught & Self proclaimed as Software Engineer.
 
   <a href="https://github.com/vazw/dotfiles" target="blank">My Linux dotfiles configurations</a>
 - 🔭 Projects
