@@ -329,7 +329,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>greyblake/nutype</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust newtype with guarantees  🇺🇦 🦀</div>
@@ -382,7 +382,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>actix/actix-extras</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of additional crates supporting the actix and actix-web frameworks.</div>
@@ -435,7 +435,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ishanjain28/geofw</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A eBPF based firewall to block traffic using the Country or the ASN</div>
@@ -532,7 +532,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Feb 2025, 11:11:33 (timezone Asia/Bangkok) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Feb 2025, 11:11:43 (timezone Asia/Bangkok) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
