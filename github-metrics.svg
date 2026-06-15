@@ -333,7 +333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MoritzFlu/vim-forcer</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tool that keeps you from using nano. Even if you want to use nano.</div>
@@ -386,7 +386,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>multikernel/kernelscript</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">KernelScript is a modern, type-safe, domain-specific programming language for eBPF-centric kernel customization</div>
@@ -439,7 +439,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rhaiscript/rhai</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rhai - An embedded scripting language for Rust.</div>
@@ -542,7 +542,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Jun 2026, 15:06:18 (timezone Asia/Bangkok) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Jun 2026, 16:50:25 (timezone Asia/Bangkok) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
